@@ -1,4 +1,4 @@
-<h1><a href="https://csb-lj6tvb.netlify.app/" target="_blank">Visit Site</a></h1>
+<h2><a href="https://csb-lj6tvb.netlify.app/" target="_blank">Visit Website</a></h2>
 <h2><a href="https://rahimansari.herokuapp.com/rahi" target="_blank">Visit Heroku-Server</a></h2>
 A Mern Typing Practice Game, It has 3 different difficulties
 as Easy,Medium and Hard, Easy: 30 Seconds, Medium: 20 Seconds, and Hard: 10 Seconds.
