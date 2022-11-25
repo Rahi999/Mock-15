@@ -27,7 +27,6 @@ user Can See Their Score By clicking View Score Button.
   <li>NPM</li>
   <li>GIT</li>
   <li>Netlify</li>
-  <li>Vercel</li>
 </ul>
  <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" width="300"  />
 
